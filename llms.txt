@@ -1,0 +1,7 @@
+# Manifesta — Manifestation & Wish Ritual App (iOS)
+
+> Manifesta is a calm, cinematic manifestation app for iPhone. Users release wishes with full-screen rituals (candle, sky lantern, star), listen to affirmations recorded in their own voice, watch ambient Universe Sessions, and track wishes in a Wish Galaxy that celebrates fulfilled wishes. Grounded in behavioral science: mental contrasting and if-then planning. Free with optional Premium subscription. App Store: https://apps.apple.com/app/id6784444090
+
+## Links
+- Website: https://necatidogrul.github.io/manifesta-site/
+- Developer: https://necatidogrul.dev
