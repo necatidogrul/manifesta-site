@@ -8,5 +8,8 @@
 
 ## Docs
 
+- [Best manifestation apps for iPhone (2026)](https://necatidogrul.github.io/manifesta-site/best-manifestation-apps.html.md): eleven manifestation and affirmation apps compared by US rating count and by whether they include the obstacle-and-plan step (WOOP); Manifesta placed last, conflict disclosed.
+- [Manifesta vs Stella](https://necatidogrul.github.io/manifesta-site/vs-stella.html.md): side-by-side with the most-rated dedicated manifestation app, explicit about where Stella is better (scale, audio immersion, zero effort).
+- [Türkçe — manifest ve olumlama uygulaması](https://necatidogrul.github.io/manifesta-site/tr/index.html.md): Turkish-language page for 'manifest uygulaması', 'olumlama uygulaması', 'niyet' queries.
 - [Home — full text of the site](https://necatidogrul.github.io/manifesta-site/index.html.md)
 - App Store: https://apps.apple.com/app/id6784444090

@@ -47,3 +47,9 @@ Most apps stop at "write it down." Manifesta closes the loop: cinematic rituals,
 Manifesta is a tool for reflection and inspiration — not a guarantee. Its backbone is behavioral science: name the obstacle, make a tiny plan.
 
 Manifesta — made by Necati Dogrul (https://necatidogrul.dev) · App Store (https://apps.apple.com/app/id6784444090)
+
+## Read more
+
+- Best manifestation apps for iPhone (2026): https://necatidogrul.github.io/manifesta-site/best-manifestation-apps.html.md — eleven apps compared by rating count and by whether they include an obstacle-and-plan step, Manifesta placed last
+- Manifesta vs Stella: https://necatidogrul.github.io/manifesta-site/vs-stella.html.md — an honest comparison, written by Manifesta's developer
+- Türkçe — manifest ve olumlama uygulaması: https://necatidogrul.github.io/manifesta-site/tr/index.html.md — Turkish landing page
