@@ -5,3 +5,8 @@
 ## Links
 - Website: https://necatidogrul.github.io/manifesta-site/
 - Developer: https://necatidogrul.dev
+
+## Docs
+
+- [Home — full text of the site](https://necatidogrul.github.io/manifesta-site/index.html.md)
+- App Store: https://apps.apple.com/app/id6784444090
