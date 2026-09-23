@@ -46,7 +46,7 @@ Most apps stop at "write it down." Manifesta closes the loop: cinematic rituals,
 **Does manifestation work?**
 Manifesta is a tool for reflection and inspiration — not a guarantee. Its backbone is behavioral science: name the obstacle, make a tiny plan.
 
-Manifesta — made by Necati Dogrul (https://necatidogrul.dev) · App Store (https://apps.apple.com/app/id6784444090)
+Manifesta — made by Necati Dogrul (https://necatidogrul.dev) · App Store (https://apps.apple.com/app/id6784444090) · Privacy policy: https://necatidogrul.github.io/manifesta-site/privacy.html
 
 ## Read more
 

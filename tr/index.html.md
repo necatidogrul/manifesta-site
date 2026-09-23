@@ -38,5 +38,6 @@
 
 ## Bağlantılar
 
+- Gizlilik Politikası: https://necatidogrul.github.io/manifesta-site/privacy.html.md
 - English: https://necatidogrul.github.io/manifesta-site/index.html.md
 - Best manifestation apps (İngilizce): https://necatidogrul.github.io/manifesta-site/best-manifestation-apps.html.md
